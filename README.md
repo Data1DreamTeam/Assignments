@@ -1,3 +1,7 @@
+---
+layout: custom-layout
+---
+
 Quick Lasagna Recipe
 
 Ingredients:
