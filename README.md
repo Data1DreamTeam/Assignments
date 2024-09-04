@@ -18,7 +18,7 @@
 - 2 cups fresh spinach (optional)
 - Salt and pepper to taste
 
-#### **Instructions:**\
+#### **Instructions:**
 1. Preheat Oven: Preheat your oven to 375°F (190°C).
 2. Cook Meat: In a large skillet, cook the ground beef or sausage over medium heat until browned. Drain excess fat. Add the marinara sauce to the meat and stir well. Let it simmer for a few minutes, then remove from heat.
 3. Prepare Cheese Mixture: In a mixing bowl, combine ricotta cheese, egg, half of the Parmesan cheese, and a pinch of salt and pepper.
